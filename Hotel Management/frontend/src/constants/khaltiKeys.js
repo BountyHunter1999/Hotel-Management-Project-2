@@ -1,0 +1,2 @@
+export const publicTestKey = 'test_public_key_5793fd7f002048afbee3b5ed77e81061'
+export const secretTestKey = 'test_secret_key_7a8386c52267482da9f3fef8e1e2ebef'
