@@ -2,4 +2,4 @@
 
 ## STILL NEED FINISHING TOUCHES
 1. Optimize the code
-2. Get the deployment part of react done so there
+2. Get the deployment part of react done so the frontend directory will be encompassed within the django project
